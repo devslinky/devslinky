@@ -1,4 +1,3 @@
-- 👋 Hey, I’m @devslinky, my name is Devraj Solanki and I am an engineering student at the University of Toronto
-- 👀 I am intrested in learning about web development 
-- 🌱 I’m currently learning C but I have dabbled in some projects using React and python
-- 📫 If you ever want to contact me, shoot me a message at devslinky@gmail.com or on linkedIn: @www.linkedin.com/in/devrajsolanki
+Hey, I am Devraj; a programming enthusiast studying engineering at the University of Toronto.
+I have a strong background in C but am intrested in learning about web development using React and Python. 
+Reach out to me through my socials @www.linkedin.com/in/devrajsolanki or through email @devslinky@gmail.com
